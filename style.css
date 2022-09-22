@@ -36,7 +36,7 @@ div p{
     font-size: 30px;
 }
 
-input [type="email"]{
+input[name=email] {
     background-color: #808080;
 }
 
